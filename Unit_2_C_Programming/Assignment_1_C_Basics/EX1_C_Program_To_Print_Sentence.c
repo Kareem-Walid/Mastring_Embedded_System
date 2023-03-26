@@ -13,6 +13,6 @@
 int main(void)
 {
 	printf("C Programming ");
-	put("C Programming");
+	
 	return 0;
 }
