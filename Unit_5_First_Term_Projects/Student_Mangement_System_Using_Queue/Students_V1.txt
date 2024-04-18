@@ -1,0 +1,8 @@
+125 Kareem Walid 3.8 15 13 12 14 11
+126 Ahmed Zewail 3.9 26 13 15 12 10
+127 Mohamed Reda 3.7 10 11 12 13 14
+128 Abdo Araby 3.8 15 18 19 20 22
+129 Emam Elsaid 3.9 18 17 33 25 63
+130 Mahmoud Tharwat 3.8 22 13 18 19 77
+131 Aly Maraay 3.7 21 58 69 74 45 
+132 Ahmed Abdo 3.8 33 59 48 45 69 
